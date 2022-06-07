@@ -5,10 +5,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
+h2 {
+    text-align: center;
+}
+
 body {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(90deg, rgb(72, 202, 228) 0%, rgba(2, 62, 138) 100%);
+    background: linear-gradient(90deg, #48cae4 0%, #023e8a 100%);
     /*CENTRALIZANDO TODOS OS ITENS DE BODY*/
     display: flex;
     justify-content: center;
